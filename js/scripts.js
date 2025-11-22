@@ -61,7 +61,7 @@ document.addEventListener('contextmenu', event => event.preventDefault());
 //document.getElementById("btn-download-windows").style.display = "inline";
 //document.getElementById("btn-download-linux").style.display = "inline";
 
-var countDownDate = new Date("Jan 1, 2026 15:37:25").getTime();
+var countDownDate = new Date("Dec 31, 2026 15:37:25").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
